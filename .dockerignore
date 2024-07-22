@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+wheels/
+pip-wheel-metadata/
+*.dist-info
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtualenv
+venv/
+env/
+.venv/
+
+# Pyre type checker
+.pyre/
+
+# Testing output
+.coverage
+.tox/
+.nox/
+
+# MyPy type checker
+.mypy_cache/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Python package metadata
+*.egg-info/
+
+# Temporary files
+*.log
+*.bak
+*.swp
+
+# Git
+.git/
+.gitignore
+
+# Node.js
+node_modules/
+
+# Local model files (if they are large or generated)
+local_model/
